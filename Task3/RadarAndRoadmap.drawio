@@ -1,0 +1,216 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36" version="26.1.1">
+  <diagram name="Страница — 1" id="h7kagvQLF4T7fgHxYs3j">
+    <mxGraphModel dx="1080" dy="712" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="600" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="kSNcIeSCARnOuIoscldN-2" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="100" y="50" width="350" height="350" as="geometry" />
+        </mxCell>
+        <mxCell id="kSNcIeSCARnOuIoscldN-4" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="133.75" y="83.75" width="282.5" height="282.5" as="geometry" />
+        </mxCell>
+        <mxCell id="kSNcIeSCARnOuIoscldN-5" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="174.61" y="124.61" width="200.78" height="200.78" as="geometry" />
+        </mxCell>
+        <mxCell id="kSNcIeSCARnOuIoscldN-6" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="214.61" y="164.61" width="120.78" height="120.78" as="geometry" />
+        </mxCell>
+        <mxCell id="kSNcIeSCARnOuIoscldN-7" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="274.5" y="450" as="sourcePoint" />
+            <mxPoint x="274.5" y="10" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kSNcIeSCARnOuIoscldN-9" value="adopt" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="kSNcIeSCARnOuIoscldN-7">
+          <mxGeometry x="0.1409" y="1" relative="1" as="geometry">
+            <mxPoint x="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kSNcIeSCARnOuIoscldN-10" value="trial" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="kSNcIeSCARnOuIoscldN-7">
+          <mxGeometry x="0.3909" y="1" relative="1" as="geometry">
+            <mxPoint x="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kSNcIeSCARnOuIoscldN-11" value="assess" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="kSNcIeSCARnOuIoscldN-7">
+          <mxGeometry x="0.5864" y="2" relative="1" as="geometry">
+            <mxPoint x="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kSNcIeSCARnOuIoscldN-12" value="hold" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="kSNcIeSCARnOuIoscldN-7">
+          <mxGeometry x="0.7545" y="1" relative="1" as="geometry">
+            <mxPoint x="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kSNcIeSCARnOuIoscldN-8" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="70" y="224.5" as="sourcePoint" />
+            <mxPoint x="480" y="224.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kSNcIeSCARnOuIoscldN-13" value="ЯП" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="450" y="48" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="kSNcIeSCARnOuIoscldN-14" value="ИНСТРУМЕНТЫ" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="30" y="48" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="kSNcIeSCARnOuIoscldN-15" value="ПЛАТФОРМЫ" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="420" y="368" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="kSNcIeSCARnOuIoscldN-16" value="МЕТОДЫ" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="40" y="378" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="kSNcIeSCARnOuIoscldN-17" value="Python" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=3;" vertex="1" parent="1">
+          <mxGeometry x="275" y="180" width="25" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="kSNcIeSCARnOuIoscldN-18" value="Golang" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=3;" vertex="1" parent="1">
+          <mxGeometry x="285" y="190" width="25" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="kSNcIeSCARnOuIoscldN-19" value="Java" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=3;" vertex="1" parent="1">
+          <mxGeometry x="295" y="200" width="25" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="kSNcIeSCARnOuIoscldN-20" value="SQL" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=3;" vertex="1" parent="1">
+          <mxGeometry x="305" y="210" width="25" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="kSNcIeSCARnOuIoscldN-21" value="Microsoft SQL Server 2008" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=3;" vertex="1" parent="1">
+          <mxGeometry x="158.75" y="100" width="25" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="kSNcIeSCARnOuIoscldN-22" value="PostgreSQL 17" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=3;" vertex="1" parent="1">
+          <mxGeometry x="183.75" y="130" width="25" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="kSNcIeSCARnOuIoscldN-23" value="Power BI" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=3;" vertex="1" parent="1">
+          <mxGeometry x="230" y="190" width="25" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="kSNcIeSCARnOuIoscldN-24" value="PowerBuilder IDE" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=3;" vertex="1" parent="1">
+          <mxGeometry x="133.75" y="130" width="25" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="kSNcIeSCARnOuIoscldN-25" value="Visual Studio Code" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=3;" vertex="1" parent="1">
+          <mxGeometry x="150" y="164.61" width="25" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="kSNcIeSCARnOuIoscldN-26" value="Microsoft SQL Server" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=3;" vertex="1" parent="1">
+          <mxGeometry x="350.39" y="356.25" width="25" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="kSNcIeSCARnOuIoscldN-27" value="PowerBuilder" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=3;" vertex="1" parent="1">
+          <mxGeometry x="375.39" y="110" width="25" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="kSNcIeSCARnOuIoscldN-29" value="Yandex Managed Service for PostgreSQL" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=3;" vertex="1" parent="1">
+          <mxGeometry x="330" y="315.39" width="44.61" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="kSNcIeSCARnOuIoscldN-31" value="Yandex Cloud" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=3;" vertex="1" parent="1">
+          <mxGeometry x="350.39" y="295" width="44.61" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="kSNcIeSCARnOuIoscldN-32" value="Локальные сервера" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=3;" vertex="1" parent="1">
+          <mxGeometry x="285" y="240" width="44.61" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="kSNcIeSCARnOuIoscldN-33" value="Традиционные ETL процессы" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=3;" vertex="1" parent="1">
+          <mxGeometry x="170" y="346.25" width="25" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="kSNcIeSCARnOuIoscldN-34" value="Data Mesh" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=3;" vertex="1" parent="1">
+          <mxGeometry x="214.61" y="285" width="25" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="kSNcIeSCARnOuIoscldN-35" value="Шина" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=3;" vertex="1" parent="1">
+          <mxGeometry x="239.61" y="250" width="25" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="kSNcIeSCARnOuIoscldN-36" value="Apache Camel" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=3;" vertex="1" parent="1">
+          <mxGeometry x="110" y="174.61" width="25" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="kSNcIeSCARnOuIoscldN-37" value="Kafka" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=3;" vertex="1" parent="1">
+          <mxGeometry x="145" y="190" width="25" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="kSNcIeSCARnOuIoscldN-38" value="React" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=3;" vertex="1" parent="1">
+          <mxGeometry x="320" y="164.61" width="25" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="kSNcIeSCARnOuIoscldN-39" value="Q1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="850" y="115" width="220" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="kSNcIeSCARnOuIoscldN-40" value="Q4" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="1540" y="115" width="220" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="kSNcIeSCARnOuIoscldN-41" value="Q3" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="1310" y="115" width="220" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="kSNcIeSCARnOuIoscldN-42" value="Q2" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="1080" y="115" width="220" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="kSNcIeSCARnOuIoscldN-43" value="Команда DWH" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="670" y="150" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kSNcIeSCARnOuIoscldN-44" value="Команда Перс данных" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="670" y="430" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kSNcIeSCARnOuIoscldN-45" value="Команда ИИ" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="670" y="360" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kSNcIeSCARnOuIoscldN-46" value="Команда Медицины" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="670" y="290.39" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kSNcIeSCARnOuIoscldN-47" value="Команда Финансов" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="670" y="220" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kSNcIeSCARnOuIoscldN-48" value="Команда Интеграций" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="670" y="500" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kSNcIeSCARnOuIoscldN-49" value="Обеспечение быстрой интеграции внешних систем и надежности при возрастающей нагрузке.&lt;div&gt;(планируется увеличение сервисов компании, все должно работать быстро и надежно)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;fontSize=9;" vertex="1" parent="1">
+          <mxGeometry x="850" y="500" width="430" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kSNcIeSCARnOuIoscldN-52" value="Что входит:&lt;div&gt;- Проведение анализа технологии текущей шины и альтернативных технологий на рынке&lt;/div&gt;&lt;div&gt;- Понимание, что Kafka выиграла со своей способностью масштабироваться&lt;/div&gt;&lt;div&gt;- Составление роадмапа на переход на нее&lt;/div&gt;&lt;div&gt;- Переход, который пользователи не заметят&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=7;" vertex="1" parent="1">
+          <mxGeometry x="1290" y="500" width="450" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="kSNcIeSCARnOuIoscldN-53" value="Команда обладает всеми знаниями о источниках персональных данных и контролирует их.&lt;div&gt;(закрываем репутационные и фин риски)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;fontSize=9;" vertex="1" parent="1">
+          <mxGeometry x="850" y="430" width="190" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kSNcIeSCARnOuIoscldN-54" value="Что входит:&lt;div&gt;- Аудит текущей работы с данными&lt;/div&gt;&lt;div&gt;- Разработка мер по обоспечению соблюдения законов о перс данных&lt;/div&gt;&lt;div&gt;- Поднятие собственной БД PostgreSQL и создание реплики&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;- Создание интеграции с шиной для ответов на запросы команды финансов&lt;/span&gt;&lt;/div&gt;&lt;div&gt;- Добавление выгрузки в DWH для создания витрины&lt;/div&gt;&lt;div&gt;- Разработка плана по выдаче прав на работу с витриной&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=7;" vertex="1" parent="1">
+          <mxGeometry x="1500" y="430" width="450" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="kSNcIeSCARnOuIoscldN-55" value="Обеспечить минимально необходимым набором данных команду финансов.&lt;div&gt;(мы источних актуальных данных)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;fontSize=9;" vertex="1" parent="1">
+          <mxGeometry x="1170" y="430" width="170" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kSNcIeSCARnOuIoscldN-56" value="Обеспечить данными аналитиков." style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;fontSize=9;" vertex="1" parent="1">
+          <mxGeometry x="1350" y="430" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kSNcIeSCARnOuIoscldN-57" value="Все данные доступны для обучения в любое время&lt;div&gt;(больше не нужно подстраиваться под поток данных, можно переиспользовать определенные данные)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;fontSize=9;" vertex="1" parent="1">
+          <mxGeometry x="850" y="360" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kSNcIeSCARnOuIoscldN-58" value="Что входит:&lt;div&gt;- Сбор перечня необходимых данных и запрос доспупа у команд-владельцев&lt;br&gt;&lt;div&gt;- Создание интеграции с DWH&lt;/div&gt;&lt;div&gt;- Создание интерфейса на react&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=7;" vertex="1" parent="1">
+          <mxGeometry x="1270" y="356.25" width="450" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="kSNcIeSCARnOuIoscldN-60" value="У работников есть быстрый и отзывчивый сервис&lt;div&gt;(правим тех долг)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;fontSize=9;" vertex="1" parent="1">
+          <mxGeometry x="1150" y="290.39" width="370" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kSNcIeSCARnOuIoscldN-61" value="Что входит:&lt;div&gt;&lt;div&gt;- Храним все данные у себя для их быстрого доступа у ним&lt;/div&gt;&lt;div&gt;- Не передаем данные в DWH, если они не используются в аналитике&lt;/div&gt;&lt;div&gt;- Проверка гипотезы, что веб интерфейс на react более отзывчив и в него проще встраивать бизнес логику других сервисов, например ИИ&lt;/div&gt;&lt;div&gt;- Переход на&amp;nbsp;Visual Studio Code&lt;/div&gt;&lt;div&gt;- Переход на веб-приложение&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=7;" vertex="1" parent="1">
+          <mxGeometry x="1530" y="290.39" width="470" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="kSNcIeSCARnOuIoscldN-62" value="Есть удобный интерфейс взаимодействия с ИИ.&lt;div&gt;(упрощаем нашу интеграцию в другие сервисы для конкурентных преимуществ)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;fontSize=9;" vertex="1" parent="1">
+          <mxGeometry x="1060" y="360" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kSNcIeSCARnOuIoscldN-64" value="Данные знают свое место.&lt;div&gt;(не мусорим, чтобы экономить, владеем данными, чтобы уметь отвечать за них)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;fontSize=9;" vertex="1" parent="1">
+          <mxGeometry x="850" y="290.39" width="290" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kSNcIeSCARnOuIoscldN-66" value="Сервис готов к кратному увеличению данных.&lt;div&gt;(грядет много интеграций с фарм компаниями, банком)&amp;nbsp;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;fontSize=9;" vertex="1" parent="1">
+          <mxGeometry x="850" y="150" width="290" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kSNcIeSCARnOuIoscldN-67" value="Есть стандартизированный процесс затягивания данных в DWH&lt;div&gt;(для упрощения интеграции новых команд)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;fontSize=9;" vertex="1" parent="1">
+          <mxGeometry x="1150" y="149.61" width="220" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kSNcIeSCARnOuIoscldN-68" value="Есть удобный интерфейс с аудитом и доступами.&lt;div&gt;(контролим доступ воизбежании утечек)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;fontSize=9;" vertex="1" parent="1">
+          <mxGeometry x="1380" y="150" width="290" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kSNcIeSCARnOuIoscldN-69" value="Что входит:&lt;div&gt;&lt;div&gt;- Проведено исследование целесообразности использования облачных решений&lt;/div&gt;&lt;/div&gt;&lt;div&gt;- Принято решение мигрировать в Яндекс Облако и использовать PostgreSQL, из-за санкций&lt;/div&gt;&lt;div&gt;- Разработан план миграции и применен&lt;/div&gt;&lt;div&gt;- Описали и реализовали стандарт как другим сервисам затянуть свои данные в DWH как пуш так и пул способом&lt;/div&gt;&lt;div&gt;-&amp;nbsp;Внедрение Data Mesh&lt;/div&gt;&lt;div&gt;- Настроены роли в PowerBI&amp;nbsp;&lt;/div&gt;&lt;div&gt;- Создана документация для команд, которые хотят интегрироваться и строить аналитику&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=7;" vertex="1" parent="1">
+          <mxGeometry x="1680" y="144.60999999999999" width="470" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="kSNcIeSCARnOuIoscldN-70" value="Данные хранятся надежно&lt;div&gt;(дабы не потерять лицензию)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;fontSize=9;" vertex="1" parent="1">
+          <mxGeometry x="850" y="220" width="110" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kSNcIeSCARnOuIoscldN-71" value="Что входит:&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;- Поднятие собственной БД PostgreSQL и создание реплики&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;- Создание интеграции с шиной для запросов команды перс данных для формирования платежей и выписок&lt;/span&gt;&lt;/div&gt;&lt;div&gt;- Добавление выгрузки в DWH для создания витрины&lt;/div&gt;&lt;div&gt;- Разработка плана по выдаче прав на работу с витриной&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=7;" vertex="1" parent="1">
+          <mxGeometry x="1120" y="220" width="450" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="kSNcIeSCARnOuIoscldN-72" value="Данные хранятся надежно&lt;div&gt;(для беспрерывной работы)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;fontSize=9;" vertex="1" parent="1">
+          <mxGeometry x="1050" y="430" width="110" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kSNcIeSCARnOuIoscldN-73" value="Обеспечить данными аналитиков." style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;fontSize=9;" vertex="1" parent="1">
+          <mxGeometry x="970" y="220" width="140" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
